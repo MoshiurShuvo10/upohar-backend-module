@@ -12,14 +12,14 @@
 │   ├── EmailService
 ├── registration
 │   ├── token
-|   │   ├── ConfirmationToken
-|   │   ├── ConfirmationTokenRepository
-|   │   ├── ConfirmationTokenService
+│   │   ├── ConfirmationToken
+│   │   ├── ConfirmationTokenRepository
+│   │   ├── ConfirmationTokenService
 │   ├── RegistrationController
 │   ├── RegistrationRequest
 │   ├── RegistrationService
 ├── security
 │   ├── config
-|   │   ├── WebSecurityConfig
+│   │   ├── WebSecurityConfig
 │   ├── PasswordEncoder
 ```
